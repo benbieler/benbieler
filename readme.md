@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-💻 My name is [Ben Bieler](https://benbieler.dev/), I am currently working for [XALT](xalt.de) as a dev-ops engineer / cloud automation specialist. I am currently focussing on Docker and Kubernetes.
+💻 My name is [Ben Bieler](https://benbieler.dev/), I am currently working for [XALT](http://xalt.de) as a dev-ops engineer / cloud automation specialist. I am currently focussing on Docker and Kubernetes.
 
 - 💡 I’m currently spending a lot of time learning about networking and getting certified as an AWS architect
 - 📫 How to reach me: [`@benbieler`](https://twitter.com/benbieler) on Twitter
